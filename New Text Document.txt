@@ -1,0 +1,16 @@
+Third Task:
+
+1. Create Api controller for login/logout - done
+2. Login ui in vue - done
+3. Login to obtain JWT token from Laravel Passport/ laravel jwt packages - done
+4. Calling the data using API with obtained token (Laravel will issue the token to Vue)
+	-register DONE
+	-login DONE
+	-logout DONE
+	-view DONE
+	-add DONE
+	-update DONE
+	-delete DONE
+5. Logout and clear the token from frontend and backend - DONE
+ **tidy up codes - DONE
+https://onlinewebtutorblog.com/laravel-10-rest-apis-with-passport-authentication/
